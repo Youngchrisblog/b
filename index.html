@@ -81,3 +81,47 @@ print(a+x+y)
 <a href="https://textingchrispage.github.io/b/"> My Small Blog </a>
 
 
+<form>
+<h4>Fill the Form </h4>
+Name : <input type="Form" name="user_name" size="4" value="e.g. meher21" maxlength="10"><br>
+Password : <input type="password" name="user_pass" ><br>
+<h4> Radio button: name should be same</h4>
+<input type="radio" name="r_gender"> Male
+<input type="radio" name="r_gender"> Female
+<input type="radio" name="r_gender" checked> Infant
+<h4> Check box : name should be different</h4>
+<input type="checkbox" name="c_male" checked> Male
+<input type="checkbox" name="c_female"> Female
+<input type="checkbox" name="c_infant"> Infant
+<h4> Select box : drop-down</h4>
+<select name="s_box">
+<option value="s_male">Male</option>
+<option value="s_female" selected>Female</option>
+<option value="s_infant">Infant</option>
+</select>
+<h4> Select box : scroll</h4>
+
+<select name="s_box" size="4" multiple>
+<option value="s_male" selected>Male</option>
+<option value="s_female" selected>Female</option>
+<option value="s_infant">Infant 1</option>
+<option value="s_infant" selected>Infant 2</option>
+<option value="s_infant">Infant 3</option>
+<option value="s_infant">Infant 4</option>
+</select>
+<h4> Text area</h4>
+<textarea rows="10" cols="80" name="txt_area">Initial Text
+x = 2
+y = 3
+</textarea> <!-- Chris is working -->
+</form>
+
+<form method="get|post" action="jquery.html">
+<h4> Fill Now</h4>
+Name : <input type="text" name="user_name" size="4" value="Meher" maxlength="16"><br>
+Password : <input type="password" name="user_pass" ><br>
+<input type="button" onclick="alert('Hello')" name="b_alert" value="Say Hello"/><br>
+<input type="submit" name="b_submit" value="Go to jQuery"/>
+<input type="reset" name="b_reset" value="Reset"/><br>
+<input type="hidden" name="h_data" value="html_tutorial">
+</form>

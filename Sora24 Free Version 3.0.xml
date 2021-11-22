@@ -20,11 +20,9 @@
 <b:skin version='1.0.0'><![CDATA[/* 
 -----------------------------------------------
 Blogger Template Style
-Name:        Sora24
-License:     Free Version
-Version:     3.0
-Author:      Sora Templates
-Author Url:  https://www.soratemplates.com/
+Name:        Youngchris Ent
+Author:      Youngchris Ent
+Author Url:  Youngchrisentertainment.xyz/
 ----------------------------------------------- */
 
 /*
@@ -1779,8 +1777,8 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
     noThumbnail = "https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w680/nth.png",
     postPerPage = 9,
     fixedSidebar = true,
-    commentsSystem = "blogger",
-    disqusShortname = "soratemplates";
+    commentsSystem = "Youngchris ENT",
+    disqusShortname = "Youngchris ENT";
 //]]>
 </script>
 
@@ -2110,11 +2108,11 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
                <b:widget-setting name='link-3'>#</b:widget-setting>
                <b:widget-setting name='sorting'>NONE</b:widget-setting>
                <b:widget-setting name='text-1'>twitter</b:widget-setting>
-               <b:widget-setting name='link-1'>https://twitter.com/LiveBlogger1</b:widget-setting>
+               <b:widget-setting name='link-1'></b:widget-setting>
                <b:widget-setting name='text-0'>facebook</b:widget-setting>
-               <b:widget-setting name='link-2'>https://www.instagram.com/livebloggerofficial/</b:widget-setting>
+               <b:widget-setting name='link-2'></b:widget-setting>
                <b:widget-setting name='text-3'>pinterest</b:widget-setting>
-               <b:widget-setting name='link-0'>https://www.facebook.com/soratemplates/</b:widget-setting>
+               <b:widget-setting name='link-0'></b:widget-setting>
                <b:widget-setting name='text-2'>instagram</b:widget-setting>
              </b:widget-settings>
              <b:includable id='main'>
